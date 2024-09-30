@@ -1,28 +1,8 @@
-<h2 align="center">  
+<h1 align="center">  
   Documentação das Decisões Técnicas  
   <br/>  
-  <a href="https://github.com/lesistemas/AluraSearch.git" target="_blank">GitHub Repository</a>  
-</h2>  
-
-<div align="center">
-  <img alt="Banner" src="./banner_image.png" style="width: 100%; height: 300px; object-fit: cover;" />
-</div>
-
-<br/>  
-
-<div align="center">
-  <a href="https://forthebadge.com"><img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with Love"></a>  
-  <a href="https://forthebadge.com"><img src="https://forthebadge.com/images/badges/open-source.svg" alt="Open Source"></a>  
-  <img src="https://img.shields.io/github/stars/lesistemas/AluraSearch?color=red&logo=github&style=for-the-badge" alt="GitHub Repo stars"/>  
-  <img src="https://img.shields.io/github/forks/lesistemas/AluraSearch?color=red&logo=github&style=for-the-badge" alt="GitHub forks"/>  
-</div>  
-
-<h3 align="center">  
-    🔹  
-    <a href="https://github.com/lesistemas/AluraSearch/issues">Reportar Bug</a> &nbsp; &nbsp;  
-    🔹  
-    <a href="https://github.com/lesistemas/AluraSearch/issues">Solicitar Funcionalidade</a>  
-</h3>  
+</h1>  
+ 
 
 <hr>
 
